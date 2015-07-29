@@ -1,6 +1,5 @@
 # CPayPassWordDemo(模仿支付宝密码输入框)
-
-还是先看看效果图哦
+###还是先看看效果图哦
 ![Image](https://github.com/icoder20150719/ICPayPassWordDemo/blob/master/demo/1.gif)
 #1:先把ICEBTPayPassWord文件夹导入工程，再#import "ICEBTPayPassWordView.h"
 #2:具体操作步骤
@@ -21,5 +20,8 @@
         
         NSLog(@"password = %@",password);
     }];
+
+//简书上也有使用说明哦
+[http://www.jianshu.com/p/d11453dbd980](http://www.jianshu.com/p/d11453dbd980)
 
 
